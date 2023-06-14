@@ -1,0 +1,37 @@
+,description,time,locationID,stateFrom,stateTo,isCheckpoint,LegFrom,LegTo,DayFrom,DayTo,reachableByTime,reachableByLocation
+0,Start of day 1,10/22/2023 9:00,0,ended,racing,1,0,1,0,1,1,1
+1,Start of first 30 min stop on day 1,,11138,racing,mandStop,0,1,1,1,1,0,1
+2,End of first 30 min stop on day 1,,11138,mandStop,racing,0,1,1,1,1,1,0
+3,Start of second 30 min stop on day 1,,22276,racing,mandStop,0,1,1,1,1,0,1
+4,End of second 30 min stop on day 1,,22276,mandStop,racing,0,1,1,1,1,1,0
+5,End of day 1,10/22/2023 17:00,,racing,night,0,1,1,1,1,1,0
+6,Start of day 2,10/23/2023 8:00,,night,racing,0,1,1,1,2,1,0
+7,Start of first 30 min stop on day 2,,44553,racing,mandStop,0,1,1,2,2,0,1
+8,End of first 30 min stop on day 2,,44553,mandStop,racing,0,1,1,2,2,1,0
+9,Start of second 30 min stop on day 2,,55691,racing,mandStop,0,1,1,2,2,0,1
+10,End of second 30 min stop on day 2,,55691,mandStop,racing,0,1,1,2,2,1,0
+11,End of day 2,10/23/2023 14:00,66830,racing,night,1,1,1,2,2,0,1
+12,Start of charging after Leg 1,10/23/2023 18:36,66830,night,charging,0,1,1,2,2,1,0
+13,End of charging after Leg 1,10/23/2023 23:00,66830,charging,night,0,1,1,2,2,1,0
+14,Start of day 3,10/24/2023 8:00,66830,night,racing,0,1,2,2,3,1,0
+15,Start of first 30 min stop on day 3,,80272,racing,mandStop,0,2,2,3,3,0,1
+16,End of first 30 min stop on day 3,,80272,mandStop,racing,0,2,2,3,3,1,0
+17,Start of second 30 min stop on day 3,,93714,racing,mandStop,0,2,2,3,3,0,1
+18,End of second 30 min stop on day 3,,93714,mandStop,racing,0,2,2,3,3,1,0
+19,End of day 3,10/24/2023 17:00,,racing,night,0,2,2,3,3,1,0
+20,Start of day 4,10/25/2023 8:00,,night,racing,0,2,2,3,4,1,0
+21,Start of first 30 min stop on day 4,,120599,racing,mandStop,0,2,2,4,4,0,1
+22,End of first 30 min stop on day 4,,120599,mandStop,racing,0,2,2,4,4,1,0
+23,Start of second 30 min stop on day 4,,134041,racing,mandStop,0,2,2,4,4,0,1
+24,End of second 30 min stop on day 4,,134041,mandStop,racing,0,2,2,4,4,1,0
+25,End of day 4,10/25/2023 16:30,147484,racing,night,1,2,2,4,4,0,1
+26,Start of charging after Leg 2,10/25/2023 18:44,147484,night,charging,0,2,2,4,4,1,0
+27,End of charging after Leg 2,10/25/2023 23:00,147484,charging,night,0,2,2,4,4,1,0
+28,Start of day 5,10/26/2023 8:00,147484,night,racing,0,2,3,4,5,1,0
+29,Start of first 30 min stop on day 5,,163136,racing,mandStop,0,3,3,5,5,0,1
+30,End of first 30 min stop on day 5,,163136,mandStop,racing,0,3,3,5,5,1,0
+31,Start of second 30 min stop on day 5,,178789,racing,mandStop,0,3,3,5,5,0,1
+32,End of second 30 min stop on day 5,,178789,mandStop,racing,0,3,3,5,5,1,0
+33,End of day 5,10/26/2023 17:00,,racing,night,0,3,3,5,5,1,0
+34,Start of day 6,10/27/2023 8:00,,night,racing,0,3,3,5,6,1,0
+35,End of day 6,10/27/2023 11:00,204877,racing,ended,1,3,3,6,6,0,1
